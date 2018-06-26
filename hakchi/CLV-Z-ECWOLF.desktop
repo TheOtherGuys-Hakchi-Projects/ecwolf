@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /var/games/CLV-Z-ECWOLF/ecwolf.sh
+Path=/var/saves/CLV-Z-ECWOLF
+Name=ECWolf
+Icon=/var/games/CLV-Z-ECWOLF/CLV-Z-ECWOLF.png
+
+[X-CLOVER Game]
+Code=CLV-Z-ECWOLF
+TestID=0
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=ecwolf
+SortRawPublisher=ID
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin
